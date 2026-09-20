@@ -1,4 +1,38 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(201, 191, 211);
 
+}
+.titre{
+    color:rgb(190,13,100);
+    text-align: center; 
+    border: 2px rgb(206, 128, 128) solid;
+    border-radius: 40px;
+    padding-left: 20;
+    /text-decoration: line-through/
+    font-size: 40;
+
+}
+p{
+    text-align:justify;
+    font-style: italic;
+    font-weight:bolder;
+}
+
+.mon {
+    color: rgb(12, 85, 150);
+    font-size: 70px;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    border: 2px red solid;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.d1{
+    width: 100px;
+
+}
+p{
+    display: inline;
 }
